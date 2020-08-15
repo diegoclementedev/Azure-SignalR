@@ -1,0 +1,15 @@
+D:\POC\SignalR\bin\Debug\netcoreapp2.1\SignalR.deps.json
+D:\POC\SignalR\bin\Debug\netcoreapp2.1\SignalR.runtimeconfig.json
+D:\POC\SignalR\bin\Debug\netcoreapp2.1\SignalR.runtimeconfig.dev.json
+D:\POC\SignalR\bin\Debug\netcoreapp2.1\SignalR.dll
+D:\POC\SignalR\bin\Debug\netcoreapp2.1\SignalR.pdb
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\SignalR.csprojAssemblyReference.cache
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\SignalR.csproj.CoreCompileInputs.cache
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorAssemblyInfo.cache
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorAssemblyInfo.cs
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\SignalR.AssemblyInfoInputs.cache
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\SignalR.AssemblyInfo.cs
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\SignalR.RazorTargetAssemblyInfo.cache
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\SignalR.dll
+D:\POC\SignalR\obj\Debug\netcoreapp2.1\SignalR.pdb
